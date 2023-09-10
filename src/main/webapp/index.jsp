@@ -1,7 +1,7 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Greens - best software This is my first Jenkinoutput <font></h1>
-<h2> Arun - Senior Trainer for AWS & DevOps1 Annanagarnewbaranch greens tech is one of the leading instiute ALL the best... </h2>
+<h1><font color='339FFF'> Welcome to Greens - best software -  This is my first Jenkin output <font></h1>
+<h2><font color='FF3396'>Arun - Senior Trainer for AWS & DevOps1 Annanagarnewbaranch greens tech is one of the leading instiute ALL the best...<font></h2>
 
 <a href=" http://www.greenstechnologys.com/contact.php">Click Here To See Greens Training Schedules</a>
   
